@@ -1,0 +1,2 @@
+# migo
+Database migration utility
